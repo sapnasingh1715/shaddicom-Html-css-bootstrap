@@ -1,0 +1,363 @@
+body{
+  width: 100%;
+ 
+}
+.container-fluid{
+  width: 100%;
+}
+.heading{
+  position: relative;
+    
+  background-position: center;
+  background-size: cover;
+}
+.carousel-item{
+  margin-left: 150px;
+  margin: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+
+}
+
+
+
+.banner1{
+  position: relative;
+  display: grid;
+  text-align: center;
+  height: 100%;
+  background-image: url(shaadi17.jpg);
+  color: white;
+  background-size: cover;
+  padding-bottom: 30px;
+  width: 100%;
+  margin: auto;
+ 
+}
+
+.selectpicker{
+
+  height: 40px;
+  margin-left: 20px;
+  margin-right: 10px;
+ size-adjust: 30px;
+ background:white;
+ opacity: none;
+ width: 10%;
+ border-radius: 5px;
+
+}
+.selectpicker .select .option{
+  box-sizing: 30px;
+  opacity: none;
+}
+/* .box .selectpicker{
+  box-sizing: 20px;
+} */
+
+.card-body{
+  display: inline-block;
+  opacity: none;
+}
+.card .lable{
+  display: flex;
+  color: white;
+  display: block; 
+  padding-right: 620px;
+   opacity: none;
+  /* opacity: 1; */
+}
+.card .selectpicker .select{
+  size: 20px;
+  opacity: none;
+}
+.col img{
+  width: 1px;
+  height: -1px;
+  position: absolute;
+    top: 0;
+    left: 0;
+    height: 148px;
+    width: 133px;
+    opacity: 0;
+    background-size: 100%;
+    transition: all .5s ease-in-out 0s;
+}
+
+
+.container img{
+    color: bisque;
+    border: none;
+    width: 100%;
+ 
+  }   
+.navbar {
+  background-color: grey;
+
+}
+
+.navbar-brand img{
+background-image: url(shaddi18.png);
+width: 20px;
+height: 100%;
+}
+.images img{
+  margin-left:150px;
+  font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 7px;
+
+}
+.images2{
+  background-color:#daeffe;
+  
+}
+
+.meet-badge{
+  vertical-align: middle;
+}
+
+/* 
+.dropdown{
+    border: none;
+} */
+  
+
+.column img{
+    float: left;
+  
+    padding: 95px;
+    text-align: center;
+    size: 5px;
+  
+  }
+  
+  div.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    background-color: #ff5a60;
+    padding: 20px;
+    font-size: 30px;
+    color: white;
+  }
+  .shaddi img{
+      background-position: right 254px;
+        background-position-x: right;
+        background-position-y: -254px;
+        position: sticky;
+        margin-left: 650px;
+        width: 87px;
+        padding-top: 50px;
+        padding-bottom: 30px;
+
+  }
+
+  .tester-btn{
+    background: #00bcd5;
+    background-color: rgb(0, 188, 213);
+    border-radius: 3px 3px 0 0;
+    color: #fff;
+    font-size: 20px;
+    padding: 4px 20px;
+    position: absolute;
+    bottom: 101%;
+    left: 50%;
+    margin-left: 100px;
+    text-align: right;
+    margin-top: 120px;
+  }
+
+
+.tester2 {
+    width: 153px;
+    text-align: left;
+    margin-left:100px ;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.d-flex{
+    
+ word-spacing: 10px;
+ position: fixed;
+    
+}
+.card{
+  background-color: black;
+  opacity: 0.3;
+}
+
+h1{
+  color: #ff5a60;
+  text-align: center;
+  padding: 30px 0;
+  font-size: 37px;
+}
+h2{
+  font-size: 18px;
+  text-align: center;
+  color: #72727d;
+}
+h3{
+  color: #51505d;
+  text-align: center;
+  font-size: 17px;
+}
+h4{
+  margin-top: 20px;
+   text-align: center;
+   color: #00bcd5
+  
+ }
+h5{
+  text-align: center;
+  color: #72727d;
+  font-family: Roboto,sans-serif;
+  line-height: 1.3em;
+}
+h6{
+  text-align: center;
+  color: #72727d!important;
+}
+.list .column{
+  text-align: center;
+}
+.card-body{
+   margin: auto;
+  margin-left: 30px;
+  margin-right: 30px;
+  background-color: black;
+  
+  padding-right: 5px;
+    padding-left: 5px;
+    border: white;
+     border: none; 
+}
+.zoom img{ 
+  width: 100%;
+}
+.tester-btn img{
+  height: 50px;
+}
+/* .card-body1 .row .card-title{
+  box-shadow: 0px 5px 7px (0.4); */
+  
+  .text-center:hover{
+box-shadow: 0px 5px 7px rgb(0 0 0/ 0.4);
+margin-left: 20px;
+}
+.groov .row .text-center{
+  margin-left: 20px;
+  margin: 10px;
+}
+.groov{
+  margin-left: 50px;
+}
+.list-inline{
+  display: inline-block;
+}
+.nav-item {
+display: inline-block;
+}
+.text-uppercase{
+  color:#72727d!important; 
+}
+.deep-purple{
+  color: #72727d!important;
+  text-align: center;
+}
+.deep-purple  p {
+  color:#72727d!important ;
+  text-align: center;
+}
+
+.btn-primary{
+  width: 15%;
+} 
+.row {
+  display: flex;
+}
+
+/* Create three equal columns that sits next to each other */
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+.column img{
+margin-left: 20%;
+margin-right: 20%;
+
+}
+.playstore{
+  margin-top: 150px;
+}
+
+@media only screen and (max-width: 812px) {
+  .selectpicker {
+    width: 100%;
+  }
+}
+
+
+@media screen and (max-width: 801px) {
+  .banner1  {
+    background-image: none;
+    display: none;
+    width: 100%;
+    
+  }
+}
+
+@media screen and (max-width: 569px) {
+  .shaddi  {
+    background-image: none;
+    display: none;
+    width: 100%;
+    
+  }
+}
+@media screen and (max-width: 375px) {
+  .tester-btn  {
+    margin-right: 80%;
+    
+  }
+}
+
+
+
+
+
+
+
+
+
+ 
+/* @media only screen and ( max-width: 812px)
+{
+.btn-link{
+  width: auto;
+  
+}
+
+
+@media screen and (max-width: 812px) {
+  
+    .images2 h2 img{
+      width: 100%;
+      background-image: none;
+    }
+  
+  
+}
+@media screen and(max-width: 812){
+  .text-center img{
+    width: auto;
+  } 
+} */
+@media screen and(max-width: 812){
+  .sticky{
+ width: fit-content;
+ width: 100%;
+  } 
+}
